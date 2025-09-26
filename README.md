@@ -1,4 +1,4 @@
-he told me to put suttin in here
+i'm a level 4 student right now.
 
 <!--
 **jonchkk/jonchkk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
