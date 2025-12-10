@@ -1,4 +1,4 @@
-i'm a level 4 student studying cyber security at leeds beckett university.
+i'm a level 4 student studying cyber security at leeds beckett university and i love it.
 
 <!--
 **jonchkk/jonchkk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
